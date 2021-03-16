@@ -84,15 +84,3 @@ extends:
     #Provide the self hosted agent pool name which is shared with your project, you can find the agent pool in project settings
     #If you are not sure about how to find it or the agent pool is not shared with your project, please contact ADOCS team for help
     selfHostedAgentPoolForBuild: 'Local Agents'
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
