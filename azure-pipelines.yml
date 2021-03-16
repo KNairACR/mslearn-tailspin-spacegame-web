@@ -59,4 +59,4 @@ steps:
   inputs:
     targetPath: '$(Build.ArtifactStagingDirectory)/$(buildConfiguration)'
     artifact: 'buildArtifacts'
-publishLocation: 'pipeline'
+    publishLocation: 'pipeline'
